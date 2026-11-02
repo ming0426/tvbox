@@ -1,5 +1,6 @@
 {
-"spider":"",
+"spider": "./custom3.jar",
+"warningText": "提示：不要相信视频中广告！",
 "sites": [
       {"key":"","name":"请勿相信视频中广告！","type":3,"api":"","searchable":1, "quickSearch":1, "filterable":0},
        {"key":"1","name":"📺 VIP 无广告 BY LIAM","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/?ac=list","categories": [ "短剧", "国产剧", "短片","港澳剧", "香港剧","港剧","剧情片", "爱情片", "战争片",  "科幻片", "动作片", "韩国剧", "台湾剧", "灾难片","日剧", "韩剧","台剧", "恐怖片", "日本剧",  "欧美剧",  "泰剧", "欧美综艺", "港台综艺", "日韩综艺",  "日韩动漫",  "综艺频道",  "动画电影", "海外剧", "欧美动漫", "大陆综艺"],"searchable":1,"playerType":1, "changeable":1, "quickSearch":1, "filterable":0},
