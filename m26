@@ -30,7 +30,7 @@
 			"api": "./油(2).py"
 		}],
     "lives": [
-   {"name":"live","type":0,"url":"https://elforce.yn.lt/tv/elftv.m3u","playerType": 2}],
+   {"name":"live","type":0,"url":"","playerType": 2}],
  "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.8.8","8.8.4.4"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
