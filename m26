@@ -16,14 +16,42 @@
     {"key":"11","name":"📺 VIP 9 线 BY LIAM","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/","categories": [ "短剧", "国产剧", "短片","港澳剧", "香港剧","港剧","剧情片",  "爱情片", "战争片",  "科幻片", "动作片", "韩国剧", "台湾剧", "灾难片", "日剧", "韩剧","台剧", "恐怖片", "日本剧", "欧美剧",  "泰剧", "欧美综艺", "港台综艺", "日韩综艺",  "日韩动漫",  "综艺频道",  "动画电影", "海外剧", "欧美动漫", "大陆综艺"],"searchable":1,"playerType":1, "changeable":1, "quickSearch":1, "filterable":0},
     {"key":"12","name":"📺 VIP 10 线 BY LIAM","type":1,"api":"https://ikunzy.com/api.php/provide/vod/","categories": [ "短剧", "国产剧", "短片","港澳剧", "香港剧","港剧","剧情片", "爱情片", "战争片",  "科幻片", "动作片", "韩国剧", "台湾剧", "灾难片","日剧", "韩剧","台剧", "恐怖片", "日本剧",  "欧美剧",  "泰剧", "欧美综艺", "港台综艺", "日韩综艺",  "日韩动漫",  "综艺频道",  "动画电影", "海外剧", "欧美动漫", "大陆综艺"],"searchable":1,"playerType":1, "changeable":1, "quickSearch":1, "filterable":0},
 {
+            "key":"you1",
+            "name":"📺 电影&戏剧 VIP 1 BY LIAM",
+			"type": 3,
+			"searchable":1,
+			"api": "./金.py"
+		},
+{
+            "key":"you2",
+            "name":"📺 电影&戏剧 VIP 2 BY LIAM",
+			"type": 3,
+			"searchable":1,
+			"api": "./duo.py"
+		},
+{
             "key":"you3",
+            "name":"📺 电影&戏剧 VIP 3 BY LIAM",
+			"type": 3,
+			"searchable":1,
+			"api": "./可.py"
+		},
+{
+            "key":"you4",
+            "name":"📺 爱听音乐",
+			"type": 3,
+			"searchable":1,
+			"api": "./爱.py"
+		},
+{
+            "key":"you5",
             "name":"📺 YOUTUBE LIVE BY LIAM",
 			"type": 3,
 			"searchable":1,
 			"api": "./油(1).py"
 		},
 		{
-            "key":"you2",
+            "key":"you6",
             "name":"📺 YOUTUBE BY LIAM",
             "searchable":1,
 			"type": 3,
